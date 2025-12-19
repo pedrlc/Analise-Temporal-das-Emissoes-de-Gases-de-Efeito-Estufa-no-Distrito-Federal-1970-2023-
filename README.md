@@ -77,7 +77,7 @@ Os resultados detalhados e as interpretações completas estão documentados no 
 
 Pedro Lucas (pedrlc)  
 Estudante de Engenharia de Software / Análise de Dados  
-GitHub: https://github.com/pedrlc
+GitHub: https://github.com/pedrlc   
 Linkedin: www.linkedin.com/in/pedro-lucas-lopes-monteiro
 
 
